@@ -1,3 +1,6 @@
+This project is and introduction to using Xcode and Swift to introduce myself with UI in swift. This app allows you to change random background color through a button.
+Below are apps and app features that I use and like. I have also included an app idea for students like me to manage their expenses and savings.
+
 # App Features
   1. Spotify
      - Spotify wrapped: summarizing music listened to throughout the year
